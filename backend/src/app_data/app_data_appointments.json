@@ -1,0 +1,200 @@
+[
+  {
+    "id": "a1b2c3d4-5e6f-7a8b-9c0d-1e2f3a4b5c6d",
+    "patient_id": "9f0e1d2c-3b4a-5g6h-7i8j-9k0l1m2n3o4p",
+    "appointment_datetime": "2023-10-01T09:30:00Z",
+    "clinic_id": "3f2504e0-4f89-11d3-9a0c-0305e82c3301",
+    "service_id": "3f2504e0-4f89-11d3-9a0c-0305e82c3301",
+    "notes": "patient complains of cough; allergy to pollen"
+  },
+  {
+    "id": "b2c3d4e5-6f7a-8b9c-0d1e-2f3a4b5c6d7e",
+    "patient_id": "6f1e3b7a-9c3b-4d5a-8a2b-1c2d3e4f5g6h",
+    "appointment_datetime": "2023-10-01T14:15:00Z",
+    "clinic_id": "9e2e2c1f-2c1f-4e2e-9e2e-9e2e2c1f9e2e",
+    "service_id": "c9bf9e57-1685-4c89-bafb-ff5af830be8a",
+    "notes": "history of seasonal allergies; checking for sore throat"
+  },
+  {
+    "id": "c3d4e5f6-7a8b-9c0d-1e2f-3a4b5c6d7e8f",
+    "patient_id": "6f1e3b7a-9c3b-4d5a-8a2b-1c2d3e4f5g6h",
+    "appointment_datetime": "2025-10-02T11:30:00Z",
+    "clinic_id": "7d44f6a4-2c1f-4e2e-9e2e-7d44f6a47d44",
+    "service_id": "456e7890-e12b-34d5-c678-9876543210ab",
+    "notes": "cough variant; requires prescription refill"
+  },
+  {
+    "id": "d4e5f6a7-8b9c-0d1e-2f3a-4b5c6d7e8f9a",
+    "patient_id": "9f0e1d2c-3b4a-5g6h-7i8j-9k0l1m2n3o4p",
+    "appointment_datetime": "2025-10-02T13:00:00Z",
+    "clinic_id": "2c1f9e2e-2c1f-4e2e-9e2e-2c1f9e2e2c1f",
+    "service_id": "654c7890-d12b-34d5-c678-fedcba987654",
+    "notes": "new patient; needs initial consult and allergy review"
+  },
+  {
+    "id": "e5f6a7b8-9c0d-1e2f-3a4b-5c6d7e8f9a0b",
+    "patient_id": "9f0e1d2c-3b4a-5g6h-7i8j-9k0l1m2n3o4p",
+    "appointment_datetime": "2025-10-02T14:30:00Z",
+    "clinic_id": "1b4e28ba-2fa1-11d2-883f-0016d3cca427",
+    "service_id": "963a7410-c12b-34d5-c678-1122aabb3344",
+    "notes": "Routine eye check-up; no known allergies."
+  },
+  {
+    "id": "f6a7b8c9-0d1e-2f3a-4b5c-6d7e8f9a0b1c",
+    "patient_id": "9f0e1d2c-3b4a-5g6h-7i8j-9k0l1m2n3o4p",
+    "appointment_datetime": "2025-10-02T16:00:00Z",
+    "clinic_id": "16fd2706-8baf-433b-82eb-8c7fada847da",
+    "service_id": "9e107d9d-3721-4b5f-9b2e-2b5c5c5c5c5c",
+    "notes": "First-time contact lens fitting; mild dry eyes."
+  },
+  {
+    "id": "a7b8c9d0-1e2f-3a4b-5c6d-7e8f9a0b1c2d",
+    "patient_id": "5e6f7g8h-9i0j-1k2l-3m4n-5o6p7q8r9s0t",
+    "appointment_datetime": "2023-10-01T11:00:00Z",
+    "clinic_id": "6f9619ff-8b86-d011-b42d-00cf4fc964ff",
+    "service_id": "123e4567-e89b-12d3-a456-426614174000",
+    "notes": "Discussing vision changes; history of migraines."
+  },
+  {
+    "id": "b8c9d0e1-2f3a-4b5c-6d7e-8f9a0b1c2d3e",
+    "patient_id": "550e8400-e29b-41d4-a716-446655440000",
+    "appointment_datetime": "2023-10-01T16:00:00Z",
+    "clinic_id": "6f9619ff-8b86-d011-b42d-00cf4fc964ff",
+    "service_id": "123e4567-e89b-12d3-a456-426614174000",
+    "notes": "Follow-up for dry eye treatment; reviewing progress."
+  },
+  {
+    "id": "c9d0e1f2-3a4b-5c6d-7e8f-9a0b1c2d3e4f",
+    "patient_id": "9f0e1d2c-3b4a-5g6h-7i8j-9k0l1m2n3o4p",
+    "appointment_datetime": "2025-11-18T09:00:00Z",
+    "clinic_id": "6f9619ff-8b86-d011-b42d-00cf4fc964ff",
+    "service_id": "123e4567-e89b-12d3-a456-426614174000",
+    "notes": "Prescription update; seasonal allergies noted."
+  },
+  {
+    "id": "39044f2c-a6a5-4b5b-9c7b-d3a4c26a6cfe",
+    "patient_id": "550e8400-e29b-41d4-a716-446655440000",
+    "clinic_id": "3f2504e0-4f89-11d3-9a0c-0305e82c3301",
+    "service_id": "3f2504e0-4f89-11d3-9a0c-0305e82c3301",
+    "optician_id": "1a2b3c4d-5e6f-7g8h-9i0j-1k2l3m4n5o6p",
+    "appointment_datetime": "2026-05-16T09:00:00Z",
+    "notes": "This is a test appointment scheduled to verify the booking system functionality."
+  },
+  {
+    "id": "f1baa64c-f944-4b6d-940b-3724b9885ce2",
+    "patient_id": "550e8400-e29b-41d4-a716-446655440000",
+    "clinic_id": "7d44f6a4-2c1f-4e2e-9e2e-7d44f6a47d44",
+    "service_id": "456e7890-e12b-34d5-c678-9876543210ab",
+    "optician_id": "3c4d5e6f-7g8h-9i0j-1k2l-3m4n5o6p7q8r",
+    "appointment_datetime": "2026-05-15T13:00:00Z",
+    "notes": "This is a test appointment scheduled to verify the booking system functionality."
+  },
+  {
+    "id": "1c78b9e4-2b3e-4483-bb09-d01f8392da26",
+    "patient_id": "550e8400-e29b-41d4-a716-446655440000",
+    "clinic_id": "7d44f6a4-2c1f-4e2e-9e2e-7d44f6a47d44",
+    "service_id": "456e7890-e12b-34d5-c678-9876543210ab",
+    "optician_id": "3c4d5e6f-7g8h-9i0j-1k2l-3m4n5o6p7q8r",
+    "appointment_datetime": "2026-05-15T11:00:00Z",
+    "notes": "This is a test appointment scheduled to verify the booking system functionality."
+  },
+  {
+    "id": "d21fa840-e8e9-45a8-b87a-89b6ed0c7b34",
+    "patient_id": "550e8400-e29b-41d4-a716-446655440000",
+    "clinic_id": "3f2504e0-4f89-11d3-9a0c-0305e82c3301",
+    "service_id": "3f2504e0-4f89-11d3-9a0c-0305e82c3301",
+    "optician_id": "1a2b3c4d-5e6f-7g8h-9i0j-1k2l3m4n5o6p",
+    "appointment_datetime": "2026-05-15T17:00:00",
+    "notes": "This is a test appointment scheduled to verify the booking system functionality."
+  },
+  {
+    "id": "41271f17-fe3f-4d15-850e-9571a25e0f42",
+    "patient_id": "550e8400-e29b-41d4-a716-446655440000",
+    "clinic_id": "3f2504e0-4f89-11d3-9a0c-0305e82c3301",
+    "service_id": "3f2504e0-4f89-11d3-9a0c-0305e82c3301",
+    "optician_id": "1a2b3c4d-5e6f-7g8h-9i0j-1k2l3m4n5o6p",
+    "appointment_datetime": "2026-05-29T10:00:00",
+    "notes": "This is a test appointment scheduled to verify the booking system functionality."
+  },
+  {
+    "id": "4ef28394-9618-4529-ab5e-00f7f6051a34",
+    "patient_id": "550e8400-e29b-41d4-a716-446655440000",
+    "clinic_id": "3f2504e0-4f89-11d3-9a0c-0305e82c3301",
+    "service_id": "3f2504e0-4f89-11d3-9a0c-0305e82c3301",
+    "optician_id": "1a2b3c4d-5e6f-7g8h-9i0j-1k2l3m4n5o6p",
+    "appointment_datetime": "2026-05-15T13:00:00",
+    "notes": "This is a test appointment scheduled to verify the booking system functionality."
+  },
+  {
+    "id": "d3cd8429-8c29-4db7-ad63-32e7f4850b42",
+    "patient_id": "550e8400-e29b-41d4-a716-446655440000",
+    "clinic_id": "3f2504e0-4f89-11d3-9a0c-0305e82c3301",
+    "service_id": "3f2504e0-4f89-11d3-9a0c-0305e82c3301",
+    "optician_id": "1a2b3c4d-5e6f-7g8h-9i0j-1k2l3m4n5o6p",
+    "appointment_datetime": "2026-05-15T10:00:00",
+    "notes": "This is a test appointment scheduled to verify the booking system functionality."
+  },
+  {
+    "id": "d0dda270-5ecc-481f-9a11-328bc2854b8a",
+    "patient_id": "550e8400-e29b-41d4-a716-446655440000",
+    "clinic_id": "1e7c9a3b-4a6b-4c8e-9f3d-2a5b6c7d8e9f",
+    "service_id": "3f2504e0-4f89-11d3-9a0c-0305e82c3301",
+    "optician_id": "0j1k2l3m-4n5o-6p7q-8r9s-0t1u2v3w4x5y",
+    "appointment_datetime": "2026-05-15T10:00:00",
+    "notes": "This is a test appointment scheduled to verify the booking system functionality."
+  },
+  {
+    "id": "0bafe975-7d42-458a-92a0-dcaef830fe9b",
+    "patient_id": "550e8400-e29b-41d4-a716-446655440000",
+    "clinic_id": "3f2504e0-4f89-11d3-9a0c-0305e82c3301",
+    "service_id": "3f2504e0-4f89-11d3-9a0c-0305e82c3301",
+    "optician_id": "1a2b3c4d-5e6f-7g8h-9i0j-1k2l3m4n5o6p",
+    "appointment_datetime": "2026-05-15T11:00:00",
+    "notes": ""
+  },
+  {
+    "id": "f11bd791-9493-4a6e-bca4-c625ace1b911",
+    "patient_id": "550e8400-e29b-41d4-a716-446655440000",
+    "clinic_id": "3f2504e0-4f89-11d3-9a0c-0305e82c3301",
+    "service_id": "3f2504e0-4f89-11d3-9a0c-0305e82c3301",
+    "optician_id": "1a2b3c4d-5e6f-7g8h-9i0j-1k2l3m4n5o6p",
+    "appointment_datetime": "2026-05-29T13:00:00",
+    "notes": "This is a test appointment scheduled to verify the booking system functionality."
+  },
+  {
+    "id": "b874caa9-3e74-4147-8544-51f08c6b5cc7",
+    "patient_id": "550e8400-e29b-41d4-a716-446655440000",
+    "clinic_id": "3f2504e0-4f89-11d3-9a0c-0305e82c3301",
+    "service_id": "3f2504e0-4f89-11d3-9a0c-0305e82c3301",
+    "optician_id": "1a2b3c4d-5e6f-7g8h-9i0j-1k2l3m4n5o6p",
+    "appointment_datetime": "2026-05-15T14:00:00",
+    "notes": "This is a test appointment scheduled to verify the booking system functionality."
+  },
+  {
+    "id": "24b8d9c7-a1dd-436e-9fba-22ab855dff97",
+    "patient_id": "550e8400-e29b-41d4-a716-446655440000",
+    "clinic_id": "3f2504e0-4f89-11d3-9a0c-0305e82c3301",
+    "service_id": "3f2504e0-4f89-11d3-9a0c-0305e82c3301",
+    "optician_id": "1a2b3c4d-5e6f-7g8h-9i0j-1k2l3m4n5o6p",
+    "appointment_datetime": "2026-05-29T15:00:00",
+    "notes": "This is a test appointment scheduled to verify the booking system functionality."
+  },
+  {
+    "id": "47752614-293f-49be-84f0-f5f7d611531c",
+    "patient_id": "550e8400-e29b-41d4-a716-446655440000",
+    "clinic_id": "3f2504e0-4f89-11d3-9a0c-0305e82c3301",
+    "service_id": "3f2504e0-4f89-11d3-9a0c-0305e82c3301",
+    "optician_id": "1a2b3c4d-5e6f-7g8h-9i0j-1k2l3m4n5o6p",
+    "appointment_datetime": "2026-05-15T15:00:00",
+    "notes": "This is a test appointment scheduled to verify the booking system functionality."
+  },
+  {
+    "id": "f4061903-5b18-4942-ba54-682f426801a8",
+    "patient_id": "550e8400-e29b-41d4-a716-446655440000",
+    "clinic_id": "3f2504e0-4f89-11d3-9a0c-0305e82c3301",
+    "service_id": "3f2504e0-4f89-11d3-9a0c-0305e82c3301",
+    "optician_id": "1a2b3c4d-5e6f-7g8h-9i0j-1k2l3m4n5o6p",
+    "appointment_datetime": "2026-05-22T10:00:00",
+    "notes": ""
+  }
+]
